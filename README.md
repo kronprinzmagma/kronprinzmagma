@@ -8,6 +8,19 @@ Senior Product Owner with 19+ years in digital products. Localina founder (acqui
 
 ---
 
+## Selected work
+
+Public, end-to-end repositories — each a sanitised mirror of a private working repo, kept in sync after every release.
+
+- **[ki-news-aggregator](https://github.com/kronprinzmagma/ki-news-aggregator)** — Daily AI briefing pipeline. 15 sources, Claude Haiku scoring + Sonnet writing, GitHub Issues + static archive. Native public repo. [Live archive](https://kronprinzmagma.github.io/ki-news-aggregator/).
+- **[agentic-cv-tailoring](https://github.com/kronprinzmagma/agentic-cv-tailoring)** — 8-agent CV pipeline with cross-provider review (Anthropic + OpenAI), factcheck veto, deterministic quality gates. Public version of `cv-tailor`.
+- **[pdf-document-organizer](https://github.com/kronprinzmagma/pdf-document-organizer)** — Privacy-first document renamer with in-memory PII redaction before any cloud call. Public version of `dok-namer`.
+- **[ai-listing-assistant](https://github.com/kronprinzmagma/ai-listing-assistant)** — Photo-to-Ricardo.ch listing via 5-agent pipeline, MCP server, LLM-as-judge evals. Public version of `verkaufshilfe-via-foto`.
+
+Available in Zurich for Senior Product / AI Product roles.
+
+---
+
 ## Currently exploring
 
 - Own MCP servers (beyond consuming existing ones)
@@ -17,4 +30,4 @@ Senior Product Owner with 19+ years in digital products. Localina founder (acqui
 
 ---
 
-Most projects are private (contain personal data: own CV, tax documents, application material). Anonymised open-source versions in preparation.
+Most projects are private (contain personal data: own CV, tax documents, application material).
