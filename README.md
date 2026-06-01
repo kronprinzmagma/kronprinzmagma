@@ -23,6 +23,8 @@ Available in Zurich for Senior Product / AI Product roles.
 
 ## Currently exploring
 
+_Last updated: 2026-06_
+
 - Own MCP servers (beyond consuming existing ones)
 - RAG implementations beyond demos
 - Voice agents (OpenAI Realtime API)
