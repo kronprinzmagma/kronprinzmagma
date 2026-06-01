@@ -32,4 +32,4 @@ _Last updated: 2026-06_
 
 ---
 
-Most projects are private (contain personal data: own CV, tax documents, application material).
+Working repos stay private to keep personal source material out of the open. The "Selected work" links above point to public, sanitised mirrors.
