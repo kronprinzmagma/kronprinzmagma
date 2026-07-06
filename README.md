@@ -23,11 +23,11 @@ Four production-grade projects. Each is a public, sanitised mirror of a private 
 
 ## Currently exploring
 
-_Last updated: 2026-06_
+_Last updated: 2026-07_
 
-- Own MCP servers (beyond consuming existing ones)
 - RAG implementations beyond demos
 - Voice agents (OpenAI Realtime API)
+- MCP servers beyond tool-wrapping — sampling, elicitation, resource subscriptions (a first server already ships in [ai-listing-assistant](https://github.com/kronprinzmagma/ai-listing-assistant))
 - Multi-provider eval patterns
 
 ---
